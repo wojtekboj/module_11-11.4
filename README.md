@@ -11,10 +11,7 @@ First class OOP
 ## Technologies
 Project is created with:
 * HTML5
-* CSS3
 * Javascript
-* SASS
-* RWD
 
 ## Tools
 The following tools were used
